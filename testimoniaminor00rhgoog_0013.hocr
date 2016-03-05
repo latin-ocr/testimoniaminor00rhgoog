@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./testimoniaminor00rhgoog_0013.png"; bbox 0 0 3650 5648; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 866 2152 1313 2215">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 866 2152 1313 2215">
+     <span class='ocr_line' id='line_1_1' title="bbox 866 2152 1313 2215; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 866 2161 1036 2215; x_wconf 76' lang='lat' dir='ltr'><em>LIBRAIRES</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1052 2163 1099 2214; x_wconf 77' lang='lat' dir='ltr'><em>DE</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1115 2163 1156 2214; x_wconf 80' lang='lat' dir='ltr'><em>LA</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1174 2152 1313 2215; x_wconf 71' lang='grc' dir='ltr'><em>εοσιὲτε</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 768 2505 1410 2572">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 768 2505 1410 2572">
+     <span class='ocr_line' id='line_1_2' title="bbox 768 2505 1410 2572; baseline -0.003 -16"><span class='ocrx_word' id='word_1_5' title='bbox 768 2520 861 2557; x_wconf 72' lang='lat' dir='ltr'><em>mus:</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 917 2505 999 2564; x_wconf 78' lang='lat' dir='ltr'><em>Ernell</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1017 2505 1123 2568; x_wconf 79' lang='lat' dir='ltr'><em>Laeroux,</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1141 2509 1182 2567; x_wconf 85' lang='lat'><em>28,</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1196 2521 1238 2555; x_wconf 84' lang='lat' dir='ltr'><em>rue</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1258 2505 1410 2572; x_wconf 79' lang='lat' dir='ltr'>Bonaparte.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 770 2597 1169 2664">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 770 2597 1169 2664">
+     <span class='ocr_line' id='line_1_3' title="bbox 770 2597 1169 2664; baseline -0.005 -12"><span class='ocrx_word' id='word_1_11' title='bbox 770 2615 891 2652; x_wconf 66' lang='lat' dir='ltr'><em>mmm:</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 916 2601 970 2651; x_wconf 77' lang='lat' dir='ltr'><em>Ouo</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 988 2597 1169 2664; x_wconf 78' lang='lat' dir='ltr'><em>Haraffowitz.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1830 5648">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1830 5648">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1830 5648; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1830 5648; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
